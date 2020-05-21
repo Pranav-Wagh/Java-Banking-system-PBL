@@ -1,0 +1,8 @@
+Compile 
+
+javac -cp mysql.jar;. Filename.java
+
+
+Run
+
+java -cp mysql.jar;. Filename
